@@ -218,3 +218,4 @@ Se permite uso comercial y modificación bajo los términos de la licencia.
 # reporte_comisiones
 # dataops_comisiones
 # trabajo_dataops_de
+# trabajo_dataops_de
